@@ -1,2 +1,2 @@
 # bulky_books
-REST API built with .NET (C#) and Razor Pages
+A REST API built using ASP.NET (C#), templated with Razor Pages and styled with Bootstrap 5
